@@ -16,6 +16,9 @@ namespace TailSpin.SpaceGame.Web
 {
     public class Startup
     {
+        // Patrizio
+        // npm ERR! path /home/vsts/work/1/s/node_modules/node-sass
+        // https://stackoverflow.com/questions/70199030/npm-install-task-failing-in-azure-devops-same-code-worked-previously
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
