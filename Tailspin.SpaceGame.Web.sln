@@ -6,7 +6,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailspin.SpaceGame.Web", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailspin.SpaceGame.Web.Tests", "Tailspin.SpaceGame.Web.Tests\Tailspin.SpaceGame.Web.Tests.csproj", "{773BA444-0D67-4F37-8762-17E108CCD5F5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailspin.SpaceGame.Web.Models", "mslearn-tailspin-spacegame-web-models-main\Tailspin.SpaceGame.Web.Models\Tailspin.SpaceGame.Web.Models.csproj", "{8FF7E8DB-9A8E-4ABF-9106-9C14462D830A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailspin.SpaceGame.Web.Models", "models-main\mslearn-tailspin-spacegame-web-models\Tailspin.SpaceGame.Web.Models\Tailspin.SpaceGame.Web.Models.csproj", "{BCF7CF3E-4C31-4951-ADE3-B84453456709}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{773BA444-0D67-4F37-8762-17E108CCD5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{773BA444-0D67-4F37-8762-17E108CCD5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{773BA444-0D67-4F37-8762-17E108CCD5F5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8FF7E8DB-9A8E-4ABF-9106-9C14462D830A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8FF7E8DB-9A8E-4ABF-9106-9C14462D830A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8FF7E8DB-9A8E-4ABF-9106-9C14462D830A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8FF7E8DB-9A8E-4ABF-9106-9C14462D830A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF7CF3E-4C31-4951-ADE3-B84453456709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF7CF3E-4C31-4951-ADE3-B84453456709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF7CF3E-4C31-4951-ADE3-B84453456709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF7CF3E-4C31-4951-ADE3-B84453456709}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
