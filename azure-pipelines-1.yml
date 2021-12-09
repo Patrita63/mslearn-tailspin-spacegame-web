@@ -67,13 +67,6 @@ steps:
     custom: tool
     arguments: install dotnet-reportgenerator-globaltool -g
 
-- task: DotNetCoreCLI@2
-  displayName: 'Create code coverage report '
-  inputs:
-    command: custom
-    custom: tool
-    arguments: 'reportgenerator  -reports:$(Build.SourcesDirectory)/**/coverage.cobertura.xml -targetdir:$(Build.SourcesDirectory)/CodeCoverage -reporttypes:HtmlInline_AzurePipelines'
-
 - task: PublishCodeCoverageResults@1
   displayName: 'Publish code coverage report'
   inputs:
