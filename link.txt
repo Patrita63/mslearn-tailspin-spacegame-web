@@ -1,0 +1,8 @@
+D:\DevOps\Patrita63\CorsoAZ400GitExample\mslearn-tailspin-spacegame-web\models-main\mslearn-tailspin-spacegame-web-models
+Models - PACKAGE
+https://github.com/Patrita63/mslearn-tailspin-spacegame-web-models
+
+
+WEB + Models
+D:\DevOps\Patrita63\CorsoAZ400GitExample\mslearn-tailspin-spacegame-web
+
